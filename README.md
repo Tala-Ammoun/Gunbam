@@ -40,7 +40,7 @@ Work in your group to implement the following user stories:
 
 * ~~It's done when the image includes a descriptive `alt` attribute.~~
 
-* It's done when the page is deployed to GitHub Pages.
+* ~~It's done when the page is deployed to GitHub Pages.~~
 
 ## 💡 Notes
 
